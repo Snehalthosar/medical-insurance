@@ -1,4 +1,4 @@
 # medical-insurance
 
-## ## Problem Statement: 
+## Problem Statement: 
 To predict medical insurence charges by using various features:
